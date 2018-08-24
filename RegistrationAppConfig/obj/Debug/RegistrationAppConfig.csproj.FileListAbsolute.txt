@@ -1,0 +1,9 @@
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\RegistrationAppConfig\RegistrationAppConfig\bin\Debug\RegistrationAppConfig.exe.config
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\RegistrationAppConfig\RegistrationAppConfig\bin\Debug\RegistrationAppConfig.exe
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\RegistrationAppConfig\RegistrationAppConfig\bin\Debug\RegistrationAppConfig.pdb
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\RegistrationAppConfig\RegistrationAppConfig\obj\Debug\RegistrationAppConfig.csprojResolveAssemblyReference.cache
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\RegistrationAppConfig\RegistrationAppConfig\obj\Debug\RegistrationAppConfig.Form1.resources
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\RegistrationAppConfig\RegistrationAppConfig\obj\Debug\RegistrationAppConfig.Properties.Resources.resources
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\RegistrationAppConfig\RegistrationAppConfig\obj\Debug\RegistrationAppConfig.csproj.GenerateResource.Cache
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\RegistrationAppConfig\RegistrationAppConfig\obj\Debug\RegistrationAppConfig.exe
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\RegistrationAppConfig\RegistrationAppConfig\obj\Debug\RegistrationAppConfig.pdb
